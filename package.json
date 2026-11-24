@@ -1,0 +1,31 @@
+{
+  "name": "xunpan-cha-yiwen",
+  "private": true,
+  "version": "0.1.0",
+  "description": "询盘差一问 — 面向中小钣金外贸业务员的报价前英文询盘澄清与防幻觉回信助手",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "node scripts/preview-server.mjs",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "lucide-react": "^0.511.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "read-excel-file": "^9.3.20"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.7",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.1.4",
+    "@types/react-dom": "^19.1.5",
+    "@vitejs/plugin-react": "^4.5.0",
+    "tailwindcss": "^4.1.7",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.4"
+  }
+}
