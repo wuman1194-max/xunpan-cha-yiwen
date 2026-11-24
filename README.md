@@ -1,7 +1,8 @@
 # 询盘差一问（Sheet Metal RFQ Clarification Assistant）
 
 > **面向中小型钣金厂外贸业务员的报价前英文询盘澄清与防幻觉回信助手**  
-> **知乎黑客松 S3 参赛作品 · 免注册免登录 · 打开即用 · 零幻觉强锚定**
+> **知乎黑客松 S3 参赛作品 · 免注册免登录 · 打开即用 · 零幻觉强锚定**  
+> **🌐 在线体验地址（免登录直达）：[https://xunpan-cha-yiwen.netlify.app](https://xunpan-cha-yiwen.netlify.app)**
 
 ![双舞台核对主视图](./docs/screenshots/01-workbench-check.png)
 

@@ -1,8 +1,9 @@
 # Dependencies
 node_modules/
 
-# Build artifacts
+# Build artifacts & deploy state
 dist/
+.netlify/
 
 # Environment variables
 .env
